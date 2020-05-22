@@ -1,5 +1,5 @@
 read -p "Introduce un valor mayor que 1: " valor
-while [ $valor -ge 1 ]; do
+while [ $valor -le 1 ]; do
     read -p "Introduce un valor mayor que 1: " valor
 done
 
