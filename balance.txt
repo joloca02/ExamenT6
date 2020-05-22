@@ -1,0 +1,5 @@
+comida tal -20
+ingreso tal -50
+luz x 100
+comida a -200
+vida b 100
